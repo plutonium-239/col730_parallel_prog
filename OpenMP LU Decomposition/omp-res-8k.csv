@@ -1,0 +1,2 @@
+command,mean,stddev,median,user,system,min,max,parameter_threads
+omp.exe 8000 1 >> txts\8k-1.txt,9561.0718308,0,9561.0718308,9007.8684375,22.561875,9561.0718308,9561.0718308,1
