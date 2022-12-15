@@ -1,4 +1,4 @@
-# COL730: Intro. to Parallel and Distributed Programming
+# COL730: Parallel Programming
 
 These are my implementations of the problem statements given to us.
 I had taken the course in Fall 2022 under Prof. Rijurekha Sen. 
